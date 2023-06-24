@@ -19,6 +19,10 @@ eset_Norm <- rma(eset)
 rma <- exprs(eset_Norm)
 boxplot(rma)
 
+# Analysis: Comparison with fold change analysis
+Treatment <- apply(rma[, c("GSM4843.CEL", "GSM4844.CEL")], 1, log)
+
+
 
 
 
