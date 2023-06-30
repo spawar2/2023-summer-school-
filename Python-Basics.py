@@ -74,6 +74,12 @@ def count_v1(dna, base):
     return i
 
 
+import math
+import matplotlib
+pip install matplotlib
+
+val = [['Dave',101,90,95], ['Alex',102,85,100],['Ray',103,90,95]]
+
 
 
 
