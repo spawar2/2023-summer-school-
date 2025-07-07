@@ -1,6 +1,6 @@
 Learning Objectives [# 2023-summer-school-](https://pawar1550.wixsite.com/claflin-courses/copy-of-biomedical-biomaterials-inter)
 Date created/updated: December, 9, 2024.
-[Managing research effectively, 2023 online summer school by Narayanan A, Lahiri C & Pawar S, Center for Research, Innovation & Translation, Department of Biotechnology, Atmiya University, India.](https://atmiyauni.ac.in/)
+[Managing research effectively, 2023 online summer school by Narayanan A, Lahiri C & Pawar S, Center for Research, Innovation & Translation, Department of Biotechnology, Atmiya University, India.](https://atmiyauni.ac.in/), Gujarat State Biotechnology Mission (GSBTM) and Department of Science and Technology, Government of Gujarat, Rajkot, India.
 [Link](https://www.claflin-computation.com/_files/ugd/81dd80_c9592316356c4638915e40a5a42c6bdf.pdf)
 https://youtu.be/t0jIx5Ch4Io
 2023 online summer school  Sum 2023 (30 students).
